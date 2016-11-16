@@ -1,1 +1,1 @@
-# domain-whois
+# Domain Whois
